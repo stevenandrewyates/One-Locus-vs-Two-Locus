@@ -1,3 +1,6 @@
+
+![Alt text](https://github.com/stevenandrewyates/One-Locus-vs-Two-Locus/blob/main/Overview.png)
+
 # Two-Locus Self-Incompatibility Simulation
 
 This repository contains *R* functions for simulating and analysing
@@ -69,7 +72,7 @@ Plot compatibility heatmap
 fig <- plot_compatibility(3,3)
 fig
 ```
-
+![Alt text](https://github.com/stevenandrewyates/One-Locus-vs-Two-Locus/blob/main/Github_example.png)
 
 ---
 
